@@ -1,7 +1,7 @@
 requirements:
 #Visual Studio
 -https://visualstudio.microsoft.com/downloads/
--any version that supports .net framwork v1.8
+-any version that supports .net framwork v4.8
 -for debug purpose
 #Visual Studio Code:
 -https://code.visualstudio.com/download
