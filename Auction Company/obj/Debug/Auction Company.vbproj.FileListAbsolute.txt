@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\bin\Debug\Auction Company.exe.config
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\bin\Debug\Auction Company.exe
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\bin\Debug\Auction Company.pdb
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\bin\Debug\Auction Company.xml
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\obj\Debug\Auction Company.vbprojAssemblyReference.cache
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\obj\Debug\Auction_Company.Resources.resources
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\obj\Debug\Auction Company.vbproj.GenerateResource.cache
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\obj\Debug\Auction Company.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\obj\Debug\Auction Company.exe
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\obj\Debug\Auction Company.xml
+C:\Users\Jonathan\Downloads\School Work\Computer Science (Form 5)\2020-Pre release\Auction Company\obj\Debug\Auction Company.pdb
