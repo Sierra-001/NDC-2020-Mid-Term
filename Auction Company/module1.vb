@@ -37,12 +37,12 @@ Module module1
                     Console.WriteLine("Do You Want To Place a Bids? y/n")
                     decision = Console.ReadLine
                     If ((decision = "y") Or (decision = "Y")) Then
-                        Console.WriteLine("Enter Buyer ID : ")
+                        Console.Write("Enter Buyer ID : ")
                         BuyID(limit) = Console.ReadLine
                         Console.Write("Enter Bids For " & Item(index) & " :")
                         TempBids = Console.ReadLine
                         If (TempBids > HighestBids(index)) Then
-                            HighestBids(index) = HighestBids(index) + TempBids
+                            HighestBids(index) = TempBids
                             NumBids(index) = NumBids(index) + 1
                             Console.Clear()
                             Console.WriteLine("Information For Item " & Item(index) & " have been changed!")
@@ -58,6 +58,8 @@ Module module1
                 Console.WriteLine("Highest Bids: " & HighestBids(index))
                 Console.WriteLine()
             Next
+            Console.WriteLine()
+            Console.WriteLine("press any key to continue...")
             Console.ReadKey()
             Console.Clear()
             Console.WriteLine("You you want to continue? y/n")
