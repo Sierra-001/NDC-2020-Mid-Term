@@ -65,6 +65,13 @@ Module module1
             Console.WriteLine("You you want to continue? y/n")
             decision = Console.ReadLine
         Loop Until ((decision = "n") Or (decision = "N"))
+        'final bids -- 10% off
+        '
+
+
+
+
+
         Console.ReadKey()
     End Sub
 End Module
