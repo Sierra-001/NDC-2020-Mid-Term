@@ -3,7 +3,7 @@
 2. Complete Source Code have been converted in a text format for mobile preview compatibility.
 3. Seperated all task for better understanding.
 
-# Some Interestinh fact discovered:
+# Some notes to considered:
 
 1.line 57 in module1, add {Search <> 0 And} before {Search <> 1 And} if error appear for value 1 and 10 don't work.
 
