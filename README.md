@@ -1,7 +1,8 @@
 # Important:
-1. Read Prerequisite in Additional Information Folder.
-2. Complete Source Code have been converted in a text format for mobile preview compatibility.
-3. Seperated all task for better understanding.
+1. Solution in Auction Company Folder 
+2. Read Prerequisite in Additional Information Folder.
+3. Complete Source Code have been converted in a text format for mobile preview compatibility.
+4. Seperated all task for better understanding.
 
 # Some notes to considered:
 
