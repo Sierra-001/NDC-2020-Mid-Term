@@ -69,7 +69,8 @@ Module module1
             Console.WriteLine("Do You Want To Bid Again? Y/N")
             decision = Console.ReadLine
             Console.Clear()
-        Loop While UCase(decision) = ("Y")        
+        Loop While UCase(decision) = ("Y")   
+        
         Console.ReadKey()
     End Sub
 End Module
