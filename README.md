@@ -11,6 +11,8 @@
 
 3.line 79 in module1 {Console.WriteLine("Your Bid Must Be Higher Than The Maximum Bid")} rarely displayed during testing.
 -added reason below:
+
 The statement check if the bid entered is greater than the maxbid which is by default 0 in the first run for all item, it will only display if the user have already enter a value which is greater than 0 in the first run for the same selected item.
 -correction:
+
 Added {Console.WriteLine("Your Bid Must Be Higher Than The Maximum Bid")} in line 76 so that it notify the user even on the first run.
