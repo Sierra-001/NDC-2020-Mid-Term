@@ -1,11 +1,5 @@
 Module Module1
     Sub Main()
-
-        If Not (0 > 1) Then
-            Console.WriteLine("Not Operator Is Operational")
-        Else
-            Console.WriteLine("Not Operator Is Not Operational")
-        End If
         Dim limit As Integer = 9    'Task 1
         Dim Item(limit), ReservePrice(limit) As Integer
         Dim Description(limit) As String
