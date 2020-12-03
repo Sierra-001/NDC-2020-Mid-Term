@@ -1,4 +1,4 @@
-﻿Module Module1
+Module Module1
 
     Sub Main()
         Dim ReservePrice(9), index, NumBids(9), BuyNumID(9), SearchID As Integer
