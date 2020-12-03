@@ -42,7 +42,7 @@ Module module1
                 Console.WriteLine(NumSold & " have been Sold!")
                 Console.WriteLine(NumNotSold & " have not been sold!")
                 Console.WriteLine()
-            End Ifs
+            End If
         Next
         Console.WriteLine("Press Enter Key To Terminate The Program...")
         Console.ReadKey()
