@@ -6,7 +6,7 @@
 
 # Some notes to considered:
 
-1.line 57 in module1, add {Search <> 0 And} before {Search <> 1 And} if error appear for value 1 and 10 don't work.
+1.line 57 in module1, add {Search <> 0 And} before {Search <> 1 And} if error appear for value 1 and 10.
 
 2.line 64 in module1, decided to comment {Console.Clear()}.
 
